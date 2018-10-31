@@ -48,6 +48,8 @@ Example:
 
 **Philippians 4:13 (ESV) -** `13` I can do all things through him who strengthens me.
 
+**John 13:34-35 -** `34` I give you a new command: Love one another. Just as I have loved you, you are also to love one another. `35` By this everyone will know that you are my disciples, if you love one another.
+
 **Proverbs 16:9 -** `1` In their hearts humans plan their course, but the Lord establishes their steps.
 
 **Psalm 5:3 (NIV) -** `3` In the morning, LORD, you hear my voice; in the morning I lay my requests before you and wait expectantly.
@@ -56,4 +58,9 @@ Example:
 
 **Revelation 16:15-16 (KJV) -** `15` Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame. `16` And he gathered them together into a place called in the Hebrew tongue Armageddon. 
 
+
+**Isaiah 41:3-4 (KJV) -** `3` He pursued them, and passed safely; even by the way that he had not gone with his feet. `4` Who hath wrought and done it, calling the generations from the beginning? I the LORD, the first, and with the last; I am he.
+
+
 **2 Timothy 1:7 -** `7` For God did not give us a spirit of timidity, but a spirit of power, of love and of self-discipline.
+
