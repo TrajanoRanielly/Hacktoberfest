@@ -8,7 +8,9 @@ BiblioSpot is an online platform for writing sermon notes. [Try it now!](https:/
 
 ## Template
 
-Replace the variables that are wrap between {}
+**When contributing please follow the below guide.**
+
+Replace the variables that are wrap between {}. *Please also remember to order your verses in alphabetical order.*
 
 **{book} {chapter}:{verses} ({version}) -** `1` {verse1} `2` {verse2}
 
