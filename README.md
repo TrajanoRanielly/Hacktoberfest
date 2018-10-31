@@ -42,7 +42,7 @@ Example:
 
 **Hebrews 9:1-2 (KJV) -** `1` THEN verily the first convenant had also ordinances of divine service, and a wordly sanctuary. `2` For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary.
 
-**John 13:34-35 -** I give you a new command: Love one another. Just as I have loved you, you are also to love one another. By this everyone will know that you are my disciples, if you love one another.
+**John 13:34-35 -** `34` I give you a new command: Love one another. Just as I have loved you, you are also to love one another. `35` By this everyone will know that you are my disciples, if you love one another.
 
 **Proverbs 16:9 -** `1` In their hearts humans plan their course, but the Lord establishes their steps.
 
