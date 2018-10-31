@@ -64,3 +64,5 @@ Example:
 
 **2 Timothy 1:7 -** `7` For God did not give us a spirit of timidity, but a spirit of power, of love and of self-discipline.
 
+**Psalm 5:3 (NIV) -** `3` In the morning, LORD, you hear my voice; in the morning I lay my requests before you and wait expectantly.
+
